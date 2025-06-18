@@ -25,3 +25,10 @@ The primary source of Data used here is Data Sales.csv and this is an open sourc
 ``` SQL
 SELECT *
 FROM Sales.Orders
+```
+
+My Visualization
+
+
+![WhatsApp Image 2025-06-09 at 6 24 19 PM](https://github.com/user-attachments/assets/74d81801-8f42-4fdd-b2c7-dff199310f75)
+
