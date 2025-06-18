@@ -21,3 +21,7 @@ The primary source of Data used here is Data Sales.csv and this is an open sourc
 - SQL Server (for querying and anylysis)
 - Power BI (for creating a report)
 - MS Power point (for presentation)
+
+``` SQL
+SELECT *
+FROM Sales.Orders
